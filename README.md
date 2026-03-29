@@ -45,14 +45,15 @@ El modelo Random Forest obtuvo el mejor desempeño:
 - Segmentación con K-means para identificar perfiles de inventario
 
 ## Cómo ejecutar
-1. Instalar dependencias:
+
+1. Ingresar o crear cuenta de google 
 ```bash
-pip install -r requirements.txt
-
-2.-Abrir el notebook:
+2.- Instalar google colaboratory 
+3.-Abrir el notebook:
 jupyter notebook
-3.-Ejecutar Asignatura7.ipynb
-
+4.-copiar y cargar celdas del codigo en Asignatura7.ipynb dentro de google colaboratory
+5.-copia ,pega y ejecuta cada una de las celdas
+ 
 ** Estructura del Proyecto**
 data/: dataset utilizado
 notebook/: desarrollo del modelo
