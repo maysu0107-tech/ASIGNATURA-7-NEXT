@@ -30,8 +30,8 @@ supervisada para apoyar decisiones de gestión de almacén.
 - Modelos:
   - Dummy Classifier (baseline)
   - Regresión Logística
-  - Random Forest
-  - Support Vector Machine (modelo avanzado)
+  - Random Forest (modelo avanzado)
+
 - Validación:
   - Train/test split (80/20)
   - Validación cruzada (5 folds)
